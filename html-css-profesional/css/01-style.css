@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #dbdde0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: #f4d5ba;
+}
+
+.article {
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: #daeabe;
+    overflow: hidden;
+    text-align: justify;
+}
+
+.article .kolom1 {
+    float: left;
+    width: 400px;
+}
+
+.article .kolom1 img {
+    float: left;
+    margin-right: 10px;
+}
+
+.article .kolom2 {
+    float: right;
+    width: 400px;
+}
+
+.footer {
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: #79989e;
+}
